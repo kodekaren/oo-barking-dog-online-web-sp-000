@@ -8,7 +8,9 @@ class Dog
   def bark(bark)
     @bark = bark
   end
-  def bark@barkend
-    
+  def bark
+    @bark
+  end
+
 end
   # Your code goes here!
